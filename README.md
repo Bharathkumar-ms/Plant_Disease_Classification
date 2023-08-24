@@ -1,4 +1,4 @@
-# Chicken-Disease-Classification--Project
+# Plant-Disease-Classification--Project
 
 
 ## Workflows
@@ -20,16 +20,16 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/Bharathkumar-ms/Plant_Disease_Classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n envname python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate envname
 ```
 
 
@@ -143,11 +143,11 @@ s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
 
 ## Run from terminal:
 
-docker build -t chickenapp.azurecr.io/chicken:latest .
+docker build -t plantapp.azurecr.io/plant:latest .
 
-docker login chickenapp.azurecr.io
+docker login plantapp.azurecr.io
 
-docker push chickenapp.azurecr.io/chicken:latest
+docker push plantapp.azurecr.io/plant:latest
 
 
 ## Deployment Steps:
