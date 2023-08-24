@@ -3,10 +3,9 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://raw.githubusercontent.com/Bharathkumar-ms/zipped-datasets/main/Chicken-fecal-images.zip
+  source_URL: https://raw.githubusercontent.com/Bharathkumar-ms/zipped-datasets/main/plant-disease-images.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
-
 
 
 prepare_base_model:
