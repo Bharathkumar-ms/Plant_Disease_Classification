@@ -1,5 +1,8 @@
 # Plant-Disease-Classification--Project
 
+# web app: 
+https://bharathkumar-ms-plant-disease-classification-1-home-1gqdd4.streamlit.app/
+
 
 ## Workflows
 1. Update config.yaml
