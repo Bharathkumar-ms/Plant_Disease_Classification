@@ -47,15 +47,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Now,
-```bash
-open up you local host and port
-```
-
-
-### DVC cmd
-
-1. dvc init
-2. dvc repro
-3. dvc dag
 
