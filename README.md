@@ -4,7 +4,6 @@
 https://bharathkumar-ms-plant-disease-classification-1-home-1gqdd4.streamlit.app/
 
 
-
 ## Workflows
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
